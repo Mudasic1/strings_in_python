@@ -29,7 +29,7 @@ print(f"{message} {myNum}")
 
 fullname = "Mudasir Chandio"
 fname = "Bashir Ahmed"
-section = "A"
+section = "-"
 batch = 1
 rollNo = 459946
 
